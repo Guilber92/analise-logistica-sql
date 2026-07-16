@@ -1,0 +1,11 @@
+"Nome_Transportadora","Estado_Destino","Total_Pedidos","Pedidos_Atrasados","Media_Dias_Atraso"
+Logistica BR Rapida,RJ,2,2,4.0
+Logistica BR Rapida,SP,2,2,3.5
+Sedex Expresso,BA,2,2,4.5
+Sedex Expresso,CE,1,1,5.0
+Sedex Expresso,PE,1,1,6.0
+Logistica BR Rapida,BA,2,0,0.0
+Logistica BR Rapida,CE,2,0,0.0
+Logistica BR Rapida,PE,2,0,0.0
+Sedex Expresso,RJ,3,0,0.0
+Sedex Expresso,SP,3,0,0.0
