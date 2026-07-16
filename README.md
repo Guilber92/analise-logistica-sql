@@ -14,5 +14,4 @@ A consulta SQL revelou um forte padrão de eficiência regional invisível a olh
 * A **Transportadora B** possui o comportamento oposto: entradas pontuais no Nordeste, mas atrasos frequentes no Sudeste.
 * **Decisão Estratégica Sugerida:** Implementar uma regra de rotação no sistema de checkout dirigindo automaticamente os pedestres do Sudeste para a Transportadora A e os do Nordeste para a Transportadora B, zerando os atrasos da operação.
 
-## 📂 Estrutura do Repositório
-* `analise_logistica_sla.sql`: Script completo contendo a criação das tabelas, inserção de dados simulados e a consulta analítica com registros de negação.
+
